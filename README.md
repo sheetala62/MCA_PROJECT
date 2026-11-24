@@ -169,11 +169,6 @@ Sheetala Hegde
 
 🎓 Master of Computer Applications (MCA)
 
-### Connect with me
-
-- GitHub: https://github.com/sheetala62
-- LinkedIn: *(Add your LinkedIn profile here)*
-
 ## ⭐ Support
 
 If you found this project helpful, consider giving it a ⭐ on GitHub.
