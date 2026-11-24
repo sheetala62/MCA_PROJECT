@@ -99,7 +99,7 @@ BrainTumorProject/
 
 Clone the repository
 
-```bash
+
 git clone https://github.com/sheetala62/MCA_PROJECT.git
 ```
 Move into the project folder
